@@ -17,6 +17,8 @@ MENTOR: NEELA SANTHOSH KUMAR
 # What is RAM DESIGN?
 RAM (Random Access Memory) design using VLSI (Very-Large-Scale Integration) involves creating memory circuits on a chip. This includes designing the memory array, decoders, and sense amplifiers, as well as read/write circuitry. The process includes defining specifications, architectural design, logic design, circuit design, physical design, verification, and manufacturing. 
 
+![Image](https://github.com/user-attachments/assets/55035ad3-0b3d-4451-8253-d0060b2f3c07)
+
 # Key aspects of RAM design in VLSI:
 1. Memory Array:
 This is the core of the RAM, consisting of individual memory cells (e.g., 6T SRAM cells for static RAM) arranged in rows and columns. Each cell stores one bit of data. 
@@ -53,3 +55,6 @@ Layout Design:
 This involves arranging the transistors, wires, and other components on the chip to minimize area and ensure proper functionality. 
 # Verification:
 Simulation and formal verification techniques are used to ensure the design meets the required specifications. 
+# OUTPUT :-
+
+<img width="790" height="146" alt="Image" src="https://github.com/user-attachments/assets/33d0ca9f-5af1-40ee-9589-df1a0bc0b0f9" />
